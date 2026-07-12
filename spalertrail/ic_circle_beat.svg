@@ -3,11 +3,11 @@
      width="24"
      height="24">
 
+      <circle cx="12" cy="12" r="12" fill="#83489B"/>
       <path
         d="M5 12H8L9.5 9L12 16L14 10L15.5 12H19"
         fill="none"
         stroke="#FFFFFF"
-        stroke-opacity="0.1"
         stroke-width="1.6"
         stroke-linecap="round"
         stroke-linejoin="round"/>
